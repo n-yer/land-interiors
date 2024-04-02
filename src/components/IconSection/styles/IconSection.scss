@@ -1,0 +1,20 @@
+.icon-section{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  .icons-container{
+    display: flex;
+    justify-content: space-around;
+    width: 90%;
+    .icon-container{
+      margin: 0 1rem;
+      text-align: center;
+      img{
+  
+      }
+      p{
+  
+      }
+    }
+  }
+}

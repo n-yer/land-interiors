@@ -1,0 +1,15 @@
+.services-container{
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  .cards-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+  }
+  .desc{
+    width: 70%;
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "nav":[
+    {"title":"About", "url":"/"},
+    {"title":"Projects", "url":"/"},
+    {"title":"Studio", "url":"/"},
+    {"title":"Blog", "url":"/"},
+    {"title":"Contact", "url":"/"}
+  ],
+  "ctaBtnText":"SPEAK WITH A ONLINE CONSULTANT",
+  "servicesCards":[
+    {"title":"Modular Kitchen", "img":"services-card1.png"}, 
+    {"title":"Bedroom", "img":"services-card2.png"}, 
+    {"title":"Living room", "img":"services-card3.png"}, 
+    {"title":"Home office", "img":"services-card4.png"}],
+  "blogsCards":[
+    {"title":"Modern Interior", "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam,", "img":"blogs-card1.png"},
+    {"title":"Exterior Project", "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam,", "img":"blogs-card2.png"},
+    {"title":"Grey Beauty", "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam,", "img":"blogs-card3.png"},
+    {"title":"Plantation interior", "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam,", "img":"blogs-card4.png"},
+    {"title":"Role of furnitures", "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam,", "img":"blogs-card5.png"}
+  ],
+  "footerDescription":"We introduce our selves as  LAND Interior and Architectural Design Consultancy - one of the best interior designers in Chennai. Chennai Luxury Interior and Architectural Design Consultancy has challenged the conventional way of interior designing and given new dimensions to the art of interior designing.",
+  "footerServicesList":["Interior Design", "Kitchen", "Ceiling", "Bedroom", "Smart Home"],
+  "footerContactInfo":{"title":"Get in touch","email":"landinteriors@gmail.com", "phone":"+91 98987 65656"},
+  "footerSocialIcons":["facebook-icon.png","linkedin-icon.png","twitter-icon.png","youtube-icon.png","instagram-icon.png"],
+  "placeholderText":"Lorem ipsum dolor sit amet, consectetur adipiscing elit ut aliquam, purus sit amet luctus venenatis, lectus magna fringilla urna, porttitor rhoncus dolor purus non enim praesent elementum facilisis leo, vel fringilla est ullamcorper eget nulla"
+
+}

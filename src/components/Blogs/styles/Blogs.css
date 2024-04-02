@@ -1,0 +1,9 @@
+.blogs-container {
+  margin: 0 10%;
+}
+
+.fcc {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}/*# sourceMappingURL=Blogs.css.map */

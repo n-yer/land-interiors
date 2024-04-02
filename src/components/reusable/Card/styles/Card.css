@@ -1,0 +1,19 @@
+.card-comp-container {
+  text-align: center;
+  display: flex;
+  flex-basis: 2;
+  flex-direction: column;
+  align-items: center;
+  margin: 2rem;
+}
+.card-comp-container .card-img {
+  border-radius: 10px;
+  width: 200px;
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+}
+.card-comp-container .title {
+  font-weight: bold;
+  color: #4B2A63;
+}/*# sourceMappingURL=Card.css.map */

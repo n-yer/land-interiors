@@ -1,0 +1,26 @@
+.card-comp-container{
+  text-align: center;
+  // flex-basis: 25%;
+  display: flex;
+  flex-basis: 2;
+  flex-direction: column;
+  align-items: center;
+  // flex: 1 0 21%;
+  margin: 2rem;
+  .card-img{
+    border-radius: 10px;
+    width: 200px;
+    height: 250px;
+    // max-height: 23vh;
+    // max-width: 15vw;
+    // min-width: 200px;
+    // min-height: 306px;
+    background-size: cover;
+    background-position: center;
+  }
+  .title{
+    font-weight: bold;
+    color: #4B2A63;
+  }
+
+}

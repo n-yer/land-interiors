@@ -1,0 +1,14 @@
+.services-container {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.services-container .cards-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.services-container .desc {
+  width: 70%;
+}/*# sourceMappingURL=Services.css.map */

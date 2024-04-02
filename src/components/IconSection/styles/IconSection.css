@@ -1,0 +1,14 @@
+.icon-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.icon-section .icons-container {
+  display: flex;
+  justify-content: space-around;
+  width: 90%;
+}
+.icon-section .icons-container .icon-container {
+  margin: 0 1rem;
+  text-align: center;
+}/*# sourceMappingURL=IconSection.css.map */

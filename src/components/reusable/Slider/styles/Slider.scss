@@ -1,0 +1,35 @@
+.slider-container{
+  display: flex;
+  // max-width: 90%;
+  overflow-x:auto;
+  // padding-right: 10%;
+  .right-btn{
+    position: absolute;
+    right: 10%;
+    background-color: white;
+    border:none;
+    z-index: 2;
+    margin-top: 8%;
+    cursor: pointer;
+  }
+  .left-btn{
+    position: absolute;
+    left: 0;
+    background-color: white;
+    border:none;
+    z-index: 2;
+    margin-top: 8%;
+    margin-left: 10%;
+    cursor: pointer;
+  }
+}
+ /* Hide scrollbar for Chrome, Safari and Opera */
+ .slider-container::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.slider-container {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+} 
