@@ -25,9 +25,12 @@
   .close-menu-btn{
     display: none;
   }
-  // .close-menu-btn-container{
-  //   display: none !important;
-  // }
+  .close-menu-btn-container{
+    display: none;
+    display:'flex';
+    width:'100%';
+    justify-content:'center';
+  }
   .burger-btn{
     background-color: transparent;
     border:none;
@@ -57,7 +60,10 @@
     display: none;
   }
   .close-menu-btn-container{
-    display: block !important;
+    display: flex !important;
+    width: 100%;
+    justify-content: center;
+    
   }
   .nav-expanded{
     display: flex;

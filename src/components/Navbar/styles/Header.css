@@ -24,6 +24,12 @@
 .header-container .close-menu-btn {
   display: none;
 }
+.header-container .close-menu-btn-container {
+  display: none;
+  display: "flex";
+  width: "100%";
+  justify-content: "center";
+}
 .header-container .burger-btn {
   background-color: transparent;
   border: none;
@@ -52,7 +58,9 @@
     display: none;
   }
   .close-menu-btn-container {
-    display: block !important;
+    display: flex !important;
+    width: 100%;
+    justify-content: center;
   }
   .nav-expanded {
     display: flex;
