@@ -31,6 +31,9 @@
       margin-right: 40px;
     }
   }
+  .close-menu-btn-container{
+    display: none !important;
+  }
 }
 
 @media only screen and (max-width: 800px) {
@@ -49,5 +52,11 @@
   .lg{
     display: none !important;
 
+  }
+  .close-menu-btn-container{
+    display: flex !important;
+    width: 100%;
+    justify-content: center;
+    
   }
 }

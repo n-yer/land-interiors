@@ -33,3 +33,9 @@
   -ms-overflow-style: none;  /* IE and Edge */
   scrollbar-width: none;  /* Firefox */
 } 
+
+@media only screen and (max-width: 800px) {
+  .right-btn,.left-btn{
+    margin-top: 25% !important;
+  }
+}

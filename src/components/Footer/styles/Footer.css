@@ -31,6 +31,9 @@
 .footer-container .social-icons .icon {
   margin-right: 40px;
 }
+.footer-container .close-menu-btn-container {
+  display: none !important;
+}
 
 @media only screen and (max-width: 800px) {
   .footer {
@@ -49,5 +52,10 @@
   }
   .lg {
     display: none !important;
+  }
+  .close-menu-btn-container {
+    display: flex !important;
+    width: 100%;
+    justify-content: center;
   }
 }/*# sourceMappingURL=Footer.css.map */
